@@ -2,6 +2,8 @@
 
 I'm a robotics researcher and engineer, so here's a selected few of my projects that may be of general interest:
 
+| Repository | Description |
+| --- | --- |
 | https://github.com/adamlukomski/BioloidMatlab | Matlab wrapper files for Robotis AX-12 access by USB |
 | https://github.com/adamlukomski/ros_melodic_slackware | ROS Melodic packages for Slackware 14.2 |
 | https://github.com/adamlukomski/sarah | Robotic hand example around Hillberry rolling joints |
